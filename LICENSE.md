@@ -1,4 +1,4 @@
-# 
+# custom KeePass for PC | KeePass for Windows Module | encryption + offline-access is the best KeePass for PC | KeePass for Windows module, featuring encryption and offline-access.
 
 
 
